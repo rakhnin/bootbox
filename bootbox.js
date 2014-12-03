@@ -905,7 +905,7 @@
     ru : {
       OK      : "OK",
       CANCEL  : "Отмена",
-      CONFIRM : "Применить"
+      CONFIRM : "Да"
     },
     sv : {
       OK      : "OK",
